@@ -2,7 +2,7 @@
 Practicing with Azure Language Studio text classification - analyzing sentiment and opinions
 
 ## Introduction
-In this exercise, we practiced using Azure AI Language Studio, which is a set of tools to integrate Azure AI Language features into user's applications. It provides Natural Language Processing tools that can understand and analyze text. To do it, we followed Microsoft Learn steps avaiable [here](https://aka.ms/ai900-text-analysis).
+In this exercise, we practiced using Azure AI Language Studio, which is a set of tools to integrate Azure AI Language features into user's applications. It provides Natural Language Processing tools that can understand and analyze text. To do it, we followed Microsoft Learn steps avaiable [here](https://aka.ms/ai900-text-analysis). We also collected public product reviews throughtout the internet to use as samples; their text is in [azure-language-studio-practice/input.md](https://github.com/fmossri/azure-language-studio-practice/blob/main/input.md)
 ### Setup Steps
 1. With an azure subscription at hand, navigate to portal.azure.com, click "+ New Resource", select "AI + Machine Learning" in the right-hand pannel, look for "Language service" and click "create" bellow it.
 Select a valid azure subscription, resource group, and create a unique resource name. Select a princing option (F0 free tier may be avaiable), check the acknowledging box, and click create at the bottom of the page.
