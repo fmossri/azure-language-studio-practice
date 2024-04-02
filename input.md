@@ -2,7 +2,7 @@
 
 ## Long samples
 
-### 1. "Miss Jerry", 1984, Movie review by IMDB user [johnny-m](https://www.imdb.com/review/rw0000021/?ref_=tt_urv):
+### 1. "Miss Jerry", 1894, Movie review by IMDB user [johnny-m](https://www.imdb.com/review/rw0000021/?ref_=tt_urv):
 ```
 While both in USA and in Europe directors were producing one-shot short films, merely of a documentary nature, 
 Alexander Black had produced (arguably) the first feature of moving pictures. The photoplay 'Miss Jerry' tried its
